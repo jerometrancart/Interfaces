@@ -1,0 +1,15 @@
+C:\wamp64\www\.Net\Section_10\Interfaces\bin\Debug\net7.0\Interfaces.exe
+C:\wamp64\www\.Net\Section_10\Interfaces\bin\Debug\net7.0\Interfaces.deps.json
+C:\wamp64\www\.Net\Section_10\Interfaces\bin\Debug\net7.0\Interfaces.runtimeconfig.json
+C:\wamp64\www\.Net\Section_10\Interfaces\bin\Debug\net7.0\Interfaces.dll
+C:\wamp64\www\.Net\Section_10\Interfaces\bin\Debug\net7.0\Interfaces.pdb
+C:\wamp64\www\.Net\Section_10\Interfaces\obj\Debug\net7.0\Interfaces.csproj.AssemblyReference.cache
+C:\wamp64\www\.Net\Section_10\Interfaces\obj\Debug\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\.Net\Section_10\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfoInputs.cache
+C:\wamp64\www\.Net\Section_10\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfo.cs
+C:\wamp64\www\.Net\Section_10\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\wamp64\www\.Net\Section_10\Interfaces\obj\Debug\net7.0\Interfaces.dll
+C:\wamp64\www\.Net\Section_10\Interfaces\obj\Debug\net7.0\refint\Interfaces.dll
+C:\wamp64\www\.Net\Section_10\Interfaces\obj\Debug\net7.0\Interfaces.pdb
+C:\wamp64\www\.Net\Section_10\Interfaces\obj\Debug\net7.0\Interfaces.genruntimeconfig.cache
+C:\wamp64\www\.Net\Section_10\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll
